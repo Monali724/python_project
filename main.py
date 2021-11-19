@@ -1,6 +1,6 @@
 n=input()
 if s==s[::-1]:
-	print("Palindrome")
+	print("Palindrome number")
 else:
 	print("Not Palindrome")
 	
